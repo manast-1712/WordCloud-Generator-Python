@@ -2,7 +2,7 @@
 My Internship project on Word-Cloud Generator
 
 Here, I have created a project which helps us create a Word Cloud from a given PDF. 
-There's one limitation and that is of the pdf size and that is, the uploaded pdf should not be very large ikn size.
+There's one limitation and that is of the pdf size, the uploaded pdf should not be very large ikn size.
 
 # What is a Word Cloud?
 Word Clouds are basically meant for visualizing the frequent words that appear in the uploaded document. They help in better understanding of structure of the uploaded document. The most amazing thing about word cloud is that only words which can make difference are considered i.e. in visulization stop words like conjuctions, articles are not considered. 
