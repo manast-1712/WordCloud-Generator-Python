@@ -12,7 +12,7 @@ For e.g. if a word "Python" is repeted most number of times in a document then i
 
 For examples of word clouds, refer: https://www.google.com/search?q=word+cloud&rlz=1C1CHBD_enIN837IN837&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjS5OO2yaLrAhUJyzgGHbBuDvAQ_AUoAXoECA0QAw&biw=1536&bih=743&dpr=1.25
 
-# Below are the in build libraries and modules of Python that we have used in the project. 
+# Below are the in built libraries and modules of Python that we have used in the project. 
 Python
 
 Flask
